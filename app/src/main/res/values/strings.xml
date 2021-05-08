@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="keep_your_scores">Keep your Scores!!</string>
+    <string name="clear">clear</string>
+    <string name="team_1_image">team 1 image</string>
+    <string name="points">points</string>
+    <string name="_0">0</string>
+    <string name="team_2">Team 2</string>
+    <string name="team_1">Team 1</string>
+    <string name="reset_scores">reset scores</string>
+    <string name="_1">+1</string>
+    <string name="_5">+5</string>
+    <string name="_10">+10</string>
+    <string name="score_keeper">Score Keeper</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="app_guide">in this app you can add score quickly to your team if you are playing any family game.</string>
+</resources>
